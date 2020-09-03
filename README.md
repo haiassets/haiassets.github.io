@@ -1,2 +1,2 @@
-# haiassets.github.io
+# cdn.dis.ru.com
 cloud
